@@ -96,6 +96,7 @@ namespace COMP003A.LectureActivity4
                 {
                     Console.WriteLine($"\t{i}: odd");
                 }
+                // comment for testing 
             }
         }
     }
